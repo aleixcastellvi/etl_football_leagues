@@ -31,11 +31,11 @@ A zip file with the code is attached. It must be saved and unzipped in the worki
 
 ```sh
 $ pip install virtualenv
-$ pip install pandas
-$ pip install lxml
 $ cd etl_football_leagues
 $ virtualenv venv
 $ source venv/bin/activate
+$ pip install pandas
+$ pip install lxml
 ```
 
 ## Execute project
